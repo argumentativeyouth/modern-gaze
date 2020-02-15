@@ -1,0 +1,27 @@
+# Mobile menu navigation links
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Art
+  url: /category/art/
+
+- title: Film
+  url: /category/film/
+
+- title: Photography
+  url: /category/photography/
+  
+- title: Contact
+  url: /contact/
+    
+- title: About
+  url: /about/
+
+#- title: Contact
+ # url: /contact/
+  
+#- title: 404
+ # url: /404/
