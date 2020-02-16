@@ -16,7 +16,7 @@ While watching a restaurant scene in a movie, the gourmand might be imagining th
 
 Here is a list of seven movies of recent times which are about lip-smacking, delicious food from around the world.
 
-## Eeat Drink Man Woman (1994): 
+## Eat Drink Man Woman (1994): 
 
 This Taiwanese film directed by Ang Lee features the generation gap between three sisters and their traditionalist father.
 
