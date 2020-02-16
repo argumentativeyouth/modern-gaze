@@ -3,7 +3,7 @@ title:          Pritam
 username:       pritam
 default:        true
 image:          https://raw.githubusercontent.com/argumentativeyouth/TArgYouth/master/images/hogarth-simp.png
-bio:            Content Writer/Editor at Embibe, avid reader, cinephile, and doodler.
+bio:            Content Writer/Editor, avid reader, cinephile, and doodler.
 email:          
 website:        https://mysite.com
 facebook:       https://www.facebook.com/
