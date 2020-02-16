@@ -3,7 +3,7 @@ title:          Pritam
 username:       pritam
 default:        true
 image:          https://raw.githubusercontent.com/argumentativeyouth/TArgYouth/master/images/hogarth-simp.png
-bio:            Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
+bio:            Content Writer/Editor at Embibe, avid reader, cinephile, and doodler.
 email:          
 website:        https://mysite.com
 facebook:       https://www.facebook.com/
