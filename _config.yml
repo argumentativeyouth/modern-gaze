@@ -6,7 +6,7 @@
 
 # Site settings
 title:              Modern Gaze
-description:        A Blog About Art, Film & Photography
+description:        A Blog About Art, Film, Photography & Literature!
 url:                # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
