@@ -3,7 +3,7 @@ title:          Pritam
 username:       pritam
 default:        true
 image:          https://raw.githubusercontent.com/argumentativeyouth/TArgYouth/master/images/hogarth-simp.png
-bio:            Content Writer/Editor, avid reader, cinephile, and doodler.
+bio:            Content Writer/Editor by Profession, Avid Reader, Cinephile & Doodler.
 email:          
 website:        https://pritam.io
 facebook:       https://www.facebook.com/prritam
