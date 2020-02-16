@@ -2,7 +2,7 @@
 layout: post
 title: Two Years Eight Months & Twenty Eight Nights - Rushdie Conjures Jinnis Yet Again!
 image: 'https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/salman-rushdie-modern-gaze.jpg'
-categories: [book]
+categories: [books]
 date: 2016-03-20
 ---
 Writing a review for a Salman Rushdie book is a tough task. One does not know where to begin given the way he blends magic and reality with innumerable characters and with plots blooming like wild fire. 
