@@ -58,7 +58,7 @@ social_networks:
 
 # Strings
 # strings:
-  # author_by:        By
+  # author_by:       
 
 # Build settings
 markdown:           kramdown
