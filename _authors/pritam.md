@@ -5,16 +5,16 @@ default:        true
 image:          https://raw.githubusercontent.com/argumentativeyouth/TArgYouth/master/images/hogarth-simp.png
 bio:            Content Writer/Editor, avid reader, cinephile, and doodler.
 email:          
-website:        https://mysite.com
-facebook:       https://www.facebook.com/
+website:        https://pritam.io
+facebook:       https://www.facebook.com/prritam
 flickr:         https://www.flickr.com/
 dribbble:       https://dribbble.com/
-github:         https://github.com/
+github:         https://github.com/iampritamg
 reddit:         https://www.reddit.com/
-instagram:      https://www.instagram.com/
-linkedin:       https://www.linkedin.com/
+instagram:      https://www.instagram.com/murphyable/
+linkedin:       https://www.linkedin.com/in/pritamtheargumentativeyouth/
 pinterest:      https://www.pinterest.com
-twitter:        https://twitter.com/
+twitter:        https://twitter.com/prritam
 vimeo:          https://vimeo.com/
 youtube:        https://www.youtube.com/
 ---
