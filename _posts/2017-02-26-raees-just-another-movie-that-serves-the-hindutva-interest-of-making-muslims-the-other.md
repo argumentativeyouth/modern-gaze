@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Raees: Just Another Movie That Serves The Hindutva Interest Of Making Muslims The “Other”
+title: Raees - Just Another Movie That Serves The Hindutva Interest Of Making Muslims The “Other”
 image: https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/raees-review-modern-gaze.jpg
+categories: [film]
 date: 2017-02-26
 ---
 
 The Bollywood blockbuster Raees has been on the headlines regularly not only because it stars Shah Rukh Khan, but also for multiple other reasons.
-
- 
 
 Firstly, the female protagonist in the film opposite to SRK was a Pakistani actor, Mahira Khan. These are hard times when the Hindu nationalists in the country call for bans on movies having actors from the ‘enemy country’ and Pakistani singers are not allowed to perform in India. Under these circumstances, Mahira Khan’s association with the movie of course gave place for discussions, if not plenty of debates.
 
@@ -23,10 +22,6 @@ Such stereotypical portrayals of Muslims have become a permanent feature of Indi
 
 However, this particular kind of stereotypes influenced by the Muslim Social, which might cause their dealienation from the mainstream, is, at the end of the day, not as harmful to the Muslim image as the other typical stereotypes used in the movie. Right from the moment of SRK’s first appearance in the movie till the end, he has been portrayed as a violent character. Although throughout the movie, he keeps on saying “Koi  dhanda  chhota  nahi  hota… aur  dhande  se  bada  koi  dharm  nahi  hota,” (“No work is demeaning… and no religion is superior to work ”) it doesn’t seem so from the way he is introduced to the audience - where he is seen lacerating his back at a Muharram celebration- thus giving an impression that he is, at the end of the day, a believer of highest order who doesn’t mind being violent to even himself for his religion. This in turn also portrays Islam as a religion that propagates violence. 
 
- 
-
 This violent image of the Muslims has been maintained throughout the movie where various Muslim characters have been portrayed as criminals, terrorists, wanted persons, and without morals. Although SRK’s role as Raees is that of a daring, violent outlaw – a Robin Hood kind of character who breaks the law, resort to violence but helps the poor irrespective of their religion, the message of the film is quite clear – that even being a ‘good’ Muslim is not enough (OK, no spoilers even though it has been a month of its release).
 
- 
-
- With the rise of Hindutva in India, the “othering” of Muslims have reached to new heights. Under these situation, portraying Muslims as violent will only serve the Hindu nationalist interest. The predominant belief that Muslims are a threat to India as propagated by Hindu supremacists will gain momentum because of movies like Raees. It is high time that the Bollywood filmmakers began making movies with a sense of responsibility.
+With the rise of Hindutva in India, the “othering” of Muslims have reached to new heights. Under these situation, portraying Muslims as violent will only serve the Hindu nationalist interest. The predominant belief that Muslims are a threat to India as propagated by Hindu supremacists will gain momentum because of movies like Raees. It is high time that the Bollywood filmmakers began making movies with a sense of responsibility.
