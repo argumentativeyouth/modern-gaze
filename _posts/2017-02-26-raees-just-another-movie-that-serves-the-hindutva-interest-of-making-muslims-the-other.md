@@ -3,6 +3,7 @@ layout: post
 title: Raees - Just Another Movie That Serves The Hindutva Interest Of Making Muslims The “Other”
 image: https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/raees-review-modern-gaze.jpg
 categories: [film]
+canonical_url: 'https://pritams.blog/Does-Raees-Serve-The-Hindutva-Interest-Of-Making-Muslims-The-Other/'
 date: 2017-02-26
 ---
 
