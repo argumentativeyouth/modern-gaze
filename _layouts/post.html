@@ -2,11 +2,7 @@
 layout: default
 ---
 
-{% if page.author %}
-  {% assign author = site.authors | where: 'username', page.author | first %}
-{% else %}
-  {% assign author = site.authors | where: 'default', true | first %}
-{% endif %}
+
 
 <article class="uk-article">
 
@@ -45,11 +41,6 @@ layout: default
         <p class="uk-text-large"><i>{{ page.description }}</i></p>
       {% endif %}
 
-      {% if author.title %}
-      <div class="uk-margin-large-bottom article-author" itemscope itemtype="http://schema.org/Person">
-        <b>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
-      </div>
-      {% endif %}
 
     </div>
     <div class="content-primary uk-position-relative uk-margin-large-bottom">
