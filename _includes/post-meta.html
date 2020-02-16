@@ -1,9 +1,3 @@
-{% if page.author %}
-  {% assign author = site.authors[page.author] %}
-{% else %}
-  {% assign author = site.author %}
-{% endif %}
-
 <div class="uk-article-meta uk-margin-top uk-margin-medium" itemscope itemtype="http://schema.org/Person">
   <div class="uk-text-uppercase">
     {% if page.id and page.categories %}
@@ -18,9 +12,4 @@
     </time>&nbsp;
 
   </div>
-    <div class="">
-      {% if author.name %}
-        <strong>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name">{{ author.name }}</span></span></strong>
-      {% endif %}
-    </div>
 </div>
