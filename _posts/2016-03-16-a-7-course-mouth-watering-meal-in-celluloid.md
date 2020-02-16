@@ -2,6 +2,7 @@
 layout: post
 title: A 7-Course Mouth Watering Meal In Celluloid
 image: 'https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/the-lunchbox-modern-gaze-2.jpg'
+categories: [film]
 date: 2016-03-16
 ---
 ‘Ask not what you can do for your country. Ask what’s for lunch’.
