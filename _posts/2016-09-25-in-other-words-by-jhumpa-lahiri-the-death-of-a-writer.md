@@ -2,7 +2,7 @@
 layout: post
 title: In Other Words By Jhumpa Lahiri - The Death Of A Writer?
 image: 'https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/jhumpa-lahiri-modern-gaze.jpg'
-categories: [book]
+categories: [books]
 date: 2016-09-25
 ---
 Born to Indian immigrants in America, the writer JumpaLahiri has said that she considered herself an incomplete person, in some way deficient. As a Bengali who doesn’t know how to properly read or write the language, and English not being her mother tongue, she cited ‘linguistic reason- the lack of a language to identify with’ for considering herself incomplete and deficient.  
