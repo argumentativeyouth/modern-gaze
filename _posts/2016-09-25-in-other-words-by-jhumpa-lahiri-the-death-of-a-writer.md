@@ -4,14 +4,6 @@ title: In Other Words By Jhumpa Lahiri - The Death Of A Writer?
 image: 'https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/jhumpa-lahiri-modern-gaze.jpg'
 date: 2016-09-25
 ---
-**In Other Words by Jhumpa Lahiri**
-
-**Translated by Ann Goldstein**
-
-**Year of Publication: 2016**
-
-**Publisher: Penguin Books India**
-
 Born to Indian immigrants in America, the writer JumpaLahiri has said that she considered herself an incomplete person, in some way deficient. As a Bengali who doesn’t know how to properly read or write the language, and English not being her mother tongue, she cited ‘linguistic reason- the lack of a language to identify with’ for considering herself incomplete and deficient.  
 
 ![In Other Words By Jhumpa Lahiri](https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/in-other-words-jhumpa-lahiri-modern-gaze.jpg)
@@ -32,6 +24,12 @@ There was also very little mention of the Italian life, its culture and people i
 
 In Other Words is undoubtedly a great piece of work especially if you consider that it has been written by someone who doesn’t belong to that language, nor grew up in Italy. But at the same time, Lahiri’s position in the world of English literature cannot be ignored. And that she has stopped writing in English to master Italian, and then come up with In Other Wordsis disappointing for her readers.
 
+**In Other Words by Jhumpa Lahiri**
 
+**Translated by Ann Goldstein**
+
+**Year of Publication: 2016**
+
+**Publisher: Penguin Books India**
 
 
