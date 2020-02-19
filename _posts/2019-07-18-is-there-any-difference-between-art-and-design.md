@@ -3,6 +3,7 @@ layout: post
 title:  Is There Any Difference Between Art And Design?
 date:   2019-07-18 14:01:35 +0300
 image:  https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/a-pair-of-shoes-modern-gaze.jpg
+categories: [art]
 tags:   
 ---
 
