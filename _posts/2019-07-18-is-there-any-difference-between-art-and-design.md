@@ -16,7 +16,7 @@ And if there is, indeed, any difference, what is it?
 
 There are, of course, very clear definitions for these two terms. Each of them has characteristics that set them apart from the other. And yet, there are times when the line between art and design becomes blurry.
 
-Art Should Comfort The Disturbed And Disturb The Comfortable.
+> Art should comfort the disturbed and disturb the comfortable.
 
 The purist, classical definition of art is that it is something through which the artist expresses themselves. That’s the sole purpose of art – expression.
 
@@ -26,7 +26,7 @@ That way, art is flexible. But I would like to use the term ‘liberated’ inst
 
 Vincent Van Gogh’s A Pair of Shoes, to many, symbolizes Van Gogh’s “weary and threadbare life”. For philosopher Martin Heidegger, however, it represents “silent call of the earth, its quiet gift of the ripening grain and its unexplained self-refusal in the fallow desolation of the wintry field”. And then there are many, it just seemed a study of shoes and nothing else.
 
-Good design is like a refrigerator—when it works, no one notices, but when it doesn’t, it sure stinks.
+> Good design is like a refrigerator—when it works, no one notices, but when it doesn’t, it sure stinks.
 
 On the other hand, design is about providing beautiful solutions to problems. The purpose of design is not to express oneself and make people think. In fact, good designs are the ones which do not make people think; they make them act, do something.
 
