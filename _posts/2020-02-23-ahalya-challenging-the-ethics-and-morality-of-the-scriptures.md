@@ -33,4 +33,14 @@ Second, Ahalya is not punished here. Only Indra is... How? Watch the film.
 
 But that Ahalya is not punished here does not, in no way, mean the film has a feminist angle to it as claimed by [this article](https://www.indiatoday.in/movies/reviews/story/ahalya-sujoy-ghoshs-short-film-is-not-just-about-the-suspense-radhika-apte-soumitra-chatterjee-tota-roy-chowdhury-283967-2015-07-22).
 
+Feminism is about challenging discrimination based on sex. It is about bringing in equality. In all versions of the mythical story, Maharishi Gautama doesn't consider whether or not Ahalya was aware of Indra's disguise. He turns her into a stone. 
 
+If Ahalya really thought it was Maharishi Gautama she had made love with, then the punishment is not justified. 
+
+Well, in a fair world, the punishment wouldn't be justified even if she had indulged in infidelity. After all, it was a match made by Brahma between a young woman and an old man. But that's not in the scope of this article. 
+
+Anyway, Maharishi Gautama didn't consider the possibility that Ahalya herself was a victim.
+
+Sujoy Ghosh's 'Ahalya' challenges this particular aspect of the mythical story. Indira is punished here. Ahalya isn't. 
+
+At the same time, Goutam himself gives Indra the opportunity to engage himself in a physical relationship with his wife. Or should I say he tricked Indra into doing what he did, thus, revealing the grey areas of human morality. 
