@@ -9,7 +9,7 @@ According to Hindu Mythology, Ahalya, the most beautiful woman on earth, was the
 
 Indra, the king of gods, was attracted to her divine beauty. He came to Ahalya in the guise of Maharishi Gautama when Gautama himself was not around. They made love. 
 
-Whether or not Ahalya was aware of the fact that it was actually Indra in disguise is debateable. There are different versions of the story of Ahalya. But in all of them, Maharishi Gautama came to know of all that had transpired. And he cursed both Indra and Ahalya. Ahalya is turned into a stone.
+Whether or not Ahalya was aware of the fact that it was actually Indra in disguise is debateable. There are different versions of the story of Ahalya. But in all of them, Maharishi Gautama came to know of all that had transpired. And he cursed both Indra and Ahalya. The curse turned Ahalya into a stone.
 
 Sujoy Ghosh's spooky short film 'Ahalya' challenges the ethics and morality, the right and wrong portrayed in the actual mythical story.
 
@@ -23,6 +23,14 @@ While telling about what could have happened to the missing person, Goutam tells
 
 To prove it, he lets Goutam to touch the stone and then go upstairs to Ahalya.
 
-Indra, who is clearly attracted to Ahalya, does as he is told.
+Indra, who is clearly attracted to Ahalya, does as he is told. Apparently, the stone works. But whether or not Ahalya is aware of the disguise isn't clear in the film. Nor is it relevant.
+
+The film, after all, challenges the mytical story, in two ways:
+
+One, unlike in the actual story, here, Goutam asks Indra to use the stone and take the guise of Goutam, then go upstairs to his wife.
+
+Second, Ahalya is not punished here. Only Indra is... How? Watch the film.
+
+But that Ahalya is not punished here does not, in no way, mean the film has a feminist angle to it as claimed by [this article](https://www.indiatoday.in/movies/reviews/story/ahalya-sujoy-ghoshs-short-film-is-not-just-about-the-suspense-radhika-apte-soumitra-chatterjee-tota-roy-chowdhury-283967-2015-07-22).
 
 
