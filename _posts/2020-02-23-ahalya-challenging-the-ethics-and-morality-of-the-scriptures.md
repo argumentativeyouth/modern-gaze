@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahalya - Challenging The Ethics And Morality Of the Scriptures
+title: Ahalya - Challenging The Ethics And Morality Of The Scriptures
 image: 'https://raw.githubusercontent.com/argumentativeyouth/modern-gaze/master/assets/img/ahalya-modern-gaze.jpg'
 categories: [film]
 date: 2020-02-23
